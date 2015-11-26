@@ -1,13 +1,13 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:15.375700
-#+TITLE: 華嚴原人論解
-#+PROPERTY: CBETA_ID X58n1032
-#+PROPERTY: ID KR6e0107
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1032
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴原人論解 / X
+#+DATE: 2015-11-26 14:18:21.384227
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0107_X_000-0738a>
-[[file:KR6e0107_001.txt::001-0738a1][No.1032-A華嚴原人論解序¶]]
-[[file:KR6e0107_001.txt::0738c3][華嚴原人論解]]
+* 目次
+* [[file:KR6e0107_001.txt::001-0738a1][No.1032-A華嚴原人論解序¶]]
+* [[file:KR6e0107_001.txt::0738c3][華嚴原人論解]]
+* 卷
+** [[file:KR6e0107_001.txt][華嚴原人論解 1]]
+** [[file:KR6e0107_002.txt][華嚴原人論解 2]]
+** [[file:KR6e0107_003.txt][華嚴原人論解 3]]
